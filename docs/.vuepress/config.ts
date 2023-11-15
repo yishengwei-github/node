@@ -1,11 +1,3 @@
-/*
- * @Author: Yshen yishengwei@pinming.cn
- * @Date: 2023-10-30 17:05:12
- * @LastEditors: Yshen yishengwei@pinming.cn
- * @LastEditTime: 2023-11-01 10:01:36
- * @FilePath: /node/docs/.vuepress/config.ts
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- */
 import { defineUserConfig } from "@vuepress/cli";
 import { defaultTheme } from "@vuepress/theme-default";
 import { navbarEn, navbarZh, sidebarEn, sidebarZh } from "./configs/index.js";
@@ -15,7 +7,7 @@ import { getDirname, path } from "@vuepress/utils";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  base: "/note/", // 如果你想让你的网站部署到一个子路径下，你将需要设置它。
+  base: "/node/", // 如果你想让你的网站部署到一个子路径下，你将需要设置它。
   lang: "zh-CN",
   title: "Yshen的笔记",
   description: "这是我的学习笔记！",
