@@ -7,7 +7,7 @@ import { getDirname, path } from "@vuepress/utils";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  base: "/node/", // 如果你想让你的网站部署到一个子路径下，你将需要设置它。
+  base: "/note/", // 如果你想让你的网站部署到一个子路径下，你将需要设置它。
   lang: "zh-CN",
   title: "Yshen的笔记",
   description: "这是我的学习笔记！",
