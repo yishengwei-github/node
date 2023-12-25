@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as t,a as e,f as a}from"./app-8014c23d.js";const l={},r={style:{color:"#d05d57"}};function c(o,_){return n(),t("p",null,[e("strong",null,[e("span",r,[a(o.$slots,"default")])])])}const f=s(l,[["render",c],["__file","Explain.vue"]]);export{f as default};

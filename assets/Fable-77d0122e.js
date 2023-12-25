@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,a as e,f as c}from"./app-8014c23d.js";const l={},n={style:{color:"#6586c2"}};function r(o,_){return t(),a("p",null,[e("strong",null,[e("span",n,[c(o.$slots,"default")])])])}const d=s(l,[["render",r],["__file","Fable.vue"]]);export{d as default};

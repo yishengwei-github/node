@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1bec1376","path":"/philosophy/","title":"哲学","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"philosophy/README.md"}');export{e as data};

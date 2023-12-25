@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5daf8f52","path":"/confucian/lunyu/weizheng.html","title":"为政篇","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"confucian/lunyu/weizheng.md"}');export{e as data};

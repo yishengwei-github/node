@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as n}from"./app-8014c23d.js";const c={},r=e("h1",{id:"中庸",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#中庸","aria-hidden":"true"},"#"),n(" 中庸")],-1),s=[r];function _(d,h){return t(),a("div",null,s)}const l=o(c,[["render",_],["__file","zhongyong.html.vue"]]);export{l as default};

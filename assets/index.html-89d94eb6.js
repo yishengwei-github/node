@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e8b6c472","path":"/notes/","title":"好记性不如烂笔头","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"notes/README.md"}');export{e as data};

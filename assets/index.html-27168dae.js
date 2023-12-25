@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-772846fe","path":"/books/","title":"读万卷书","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"books/README.md"}');export{e as data};

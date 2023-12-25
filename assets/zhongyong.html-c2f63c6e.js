@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8abed698","path":"/confucian/zhongyong.html","title":"中庸","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"confucian/zhongyong.md"}');export{e as data};

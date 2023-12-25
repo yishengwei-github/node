@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-91556886","path":"/taoists/","title":"道家","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"taoists/README.md"}');export{t as data};

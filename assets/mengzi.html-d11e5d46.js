@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69320a15","path":"/confucian/mengzi.html","title":"孟子","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"confucian/mengzi.md"}');export{e as data};

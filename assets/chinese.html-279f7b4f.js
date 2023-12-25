@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-41686e0a","path":"/books/chinese.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1700016902000,"contributors":[{"name":"Yshen","email":"yishengwei@pinming.cn","commits":1}]},"filePathRelative":"books/chinese.md"}');export{e as data};
