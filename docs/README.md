@@ -20,7 +20,7 @@ features:
     details: 苏格拉底、伊壁鸠鲁、塞内加、蒙田、叔本华、尼采。
   - title: 心理学
     details: 基础心理学。
-  - title: 其他学科
-    details: 其余一切皆是本领。
+  - title: 其他
+    details: 其他。
 footer: 学而时习之，不亦说乎！
 ---

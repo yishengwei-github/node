@@ -61,4 +61,13 @@ export const navbarZh: NavbarConfig = [
       },
     ],
   },
+  {
+    text: "语种",
+    children: [
+      {
+        text: "英语",
+        children: ["/language/english.md"],
+      },
+    ],
+  },
 ];
